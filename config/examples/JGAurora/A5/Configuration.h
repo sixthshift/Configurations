@@ -21,8 +21,6 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "JGAurora/A5"
-
 /**
  * JGAurora A5 configuration
  * Authors: Telli Mantelli, Kris Waclawski, Michael Gilardi & Samuel Pinches
